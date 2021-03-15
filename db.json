@@ -1,4 +1,5 @@
-[
+{
+  "grades": [
   {
     "category": "Pre-primary",
     "options": [
@@ -81,3 +82,4 @@
     ]
   }
 ]
+}
